@@ -4,6 +4,6 @@ There are two tables on MS SQL Server: client, order. Short tasks for this proje
 
 PHP, JS, T-SQL, Microsoft SQL Server Driver for PHP.
 
-Server name for connection in "opencon.php"
+Server for connection in "opencon.php"
 
 
